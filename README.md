@@ -15,7 +15,7 @@ Through the [vscode marketplace!](https://marketplace.visualstudio.com/items?ite
 or in your terminal with
 
 ```shell
-code --install-extension awoo
+code --install-extension metalcanine.awoo
 ```
 
 ## Development
