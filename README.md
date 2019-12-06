@@ -10,6 +10,10 @@ Forked from [dempfi's](https://github.com/dempfi) ayu theme.
 
 ## Installation
 
+Through the [vscode marketplace!](https://marketplace.visualstudio.com/items?itemName=metalcanine.awoo)
+
+or in your terminal with
+
 ```shell
 code --install-extension awoo
 ```
