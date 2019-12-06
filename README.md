@@ -1,4 +1,8 @@
-![vscode-awoo](assets/logo.png)
+<p align="center">
+
+  <img src="https://raw.githubusercontent.com/metalcanine/vscode-awoo/master/assets/logo.png">
+
+</p>
 
 A simple icon theme with bright colors, to help me with the ridiculous number of file types in the Firefox source tree.
 
