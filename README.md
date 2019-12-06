@@ -1,4 +1,4 @@
-![vscode-ayu](assets/header.png)
+![vscode-awoo](assets/logo.png)
 
 A simple icon theme with bright colors, to help me with the ridiculous number of file types in the Firefox source tree.
 
