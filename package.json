@@ -1,0 +1,45 @@
+{
+  "name": "awoo",
+  "displayName": "Awoo",
+  "description": "A simple icon theme with bright colors.",
+  "version": "0.1.0",
+  "publisher": "metalcanine",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/metalcanine/vscode-awoo"
+  },
+  "bugs": {
+    "url": "https://github.com/metalcanine/vscode-awoo/issues"
+  },
+  "engines": {
+    "vscode": "^1.13.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "keywords": [
+    "icon-theme",
+    "icons",
+    "theme",
+    "awoo"
+  ],
+  "homepage": "https://github.com/metalcanine/vscode-awoo",
+  "icon": "assets/logo.png",
+  "contributes": {
+    "iconThemes": [
+      {
+        "id": "awoo",
+        "label": "Awoo",
+        "path": "./awoo-icons.json"
+      }
+    ]
+  },
+  "scripts": {
+    "package": "vsce package",
+    "publish": "vsce publish"
+  },
+  "devDependencies": {
+    "vsce": "^1.51.0"
+  }
+}
