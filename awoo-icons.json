@@ -15,6 +15,12 @@
     "_folder_open_dark": {
       "iconPath": "./icons/folder/dark_open.png"
     },
+    "_f_access": {
+      "iconPath": "./icons/file/access.png"
+    },
+    "_f_archive": {
+      "iconPath": "./icons/file/archive.png"
+    },
     "_f_actionscript": {
       "iconPath": "./icons/file/actionscript.png"
     },
@@ -66,6 +72,9 @@
     "_f_css": {
       "iconPath": "./icons/file/css.png"
     },
+    "_f_csv": {
+      "iconPath": "./icons/file/csv.png"
+    },
     "_f_dart": {
       "iconPath": "./icons/file/dart.png"
     },
@@ -75,11 +84,17 @@
     "_f_docker": {
       "iconPath": "./icons/file/docker.png"
     },
+    "_f_editorconfig": {
+      "iconPath": "./icons/file/editorconfig.png"
+    },
     "_f_erlang": {
       "iconPath": "./icons/file/erlang.png"
     },
     "_f_ex": {
       "iconPath": "./icons/file/ex.png"
+    },
+    "_f_excel": {
+      "iconPath": "./icons/file/excel.png"
     },
     "_f_fish": {
       "iconPath": "./icons/file/fish.png"
@@ -120,6 +135,9 @@
     "_f_image": {
       "iconPath": "./icons/file/image.png"
     },
+    "_f_indesign": {
+      "iconPath": "./icons/file/indesign.png"
+    },
     "_f_jade": {
       "iconPath": "./icons/file/jade.png"
     },
@@ -146,6 +164,9 @@
     },
     "_f_lisp": {
       "iconPath": "./icons/file/lisp.png"
+    },
+    "_f_lock": {
+      "iconPath": "./icons/file/lock.png"
     },
     "_f_list": {
       "iconPath": "./icons/file/list.png"
@@ -183,6 +204,9 @@
     "_f_ocaml": {
       "iconPath": "./icons/file/ocaml.png"
     },
+    "_f_onenote": {
+      "iconPath": "./icons/file/onenote.png"
+    },
     "_f_pdf": {
       "iconPath": "./icons/file/pdf.png"
     },
@@ -191,6 +215,12 @@
     },
     "_f_php": {
       "iconPath": "./icons/file/php.png"
+    },
+    "_f_powerpoint": {
+      "iconPath": "./icons/file/powerpoint.png"
+    },
+    "_f_powershell": {
+      "iconPath": "./icons/file/powershell.png"
     },
     "_f_procfile": {
       "iconPath": "./icons/file/procfile.png"
@@ -255,11 +285,17 @@
     "_f_stylus": {
       "iconPath": "./icons/file/stylus.png"
     },
+    "_f_stylelint": {
+      "iconPath": "./icons/file/stylelint.png"
+    },
     "_f_swift": {
       "iconPath": "./icons/file/swift.png"
     },
     "_f_swig": {
       "iconPath": "./icons/file/swig.png"
+    },
+    "_f_svg": {
+      "iconPath": "./icons/file/svg.png"
     },
     "_f_tcl": {
       "iconPath": "./icons/file/tcl.png"
@@ -282,17 +318,20 @@
     "_f_typescript": {
       "iconPath": "./icons/file/typescript.png"
     },
+    "_f_video": {
+      "iconPath": "./icons/file/video.png"
+    },
     "_f_vue": {
       "iconPath": "./icons/file/vue.png"
     },
     "_f_yaml": {
       "iconPath": "./icons/file/yaml.png"
     },
-    "_f_zip": {
-      "iconPath": "./icons/file/archive.png"
-    },
     "_f_eslint": {
       "iconPath": "./icons/file/eslint.png"
+    },
+    "_f_word": {
+      "iconPath": "./icons/file/word.png"
     },
     "_f_yarn": {
       "iconPath": "./icons/file/yarn.png"
@@ -349,7 +388,10 @@
     "edn": "_f_clojure",
     "coffee": "_f_coffeescript",
     "css": "_f_css",
+    "csv": "_f_csv",
     "dart": "_f_dart",
+    "doc": "_f_word",
+    "docx": "_f_word",
     "pas": "_f_delphi",
     "dfm": "_f_delphi",
     "dpr": "_f_delphi",
@@ -390,6 +432,7 @@
     "png": "_f_image",
     "bmp": "_f_image",
     "ico": "_f_image",
+    "indd": "_f_indesign",
     "jade": "_f_pug",
     "pug": "_f_pug",
     "jade-lintrc": "_f_pug",
@@ -405,6 +448,7 @@
     "list": "_f_list",
     "lsl": "_f_lsl",
     "lua": "_f_lua",
+    "mdb": "_f_access",
     "md": "_f_markdown",
     "markdown": "_f_markdown",
     "fig": "_f_matlab",
@@ -434,6 +478,8 @@
     "mly": "_f_ocaml",
     "ocamlmakefile": "_f_ocaml",
     "merlin": "_f_ocaml",
+    "one": "_f_onenote",
+    "pdf": "_f_pdf",
     "perl": "_f_perl",
     "psd": "_f_psd",
     "php": "_f_php",
@@ -448,7 +494,10 @@
     "phpt": "_f_php",
     "phtml": "_f_php",
     "phar": "_f_php",
+    "ppt": "_f_powerpoint",
+    "pptx": "_f_powerpoint",
     "procfile": "_f_procfile",
+    "ps1": "_f_powershell",
     "epp": "_f_puppet",
     "py": "_f_python",
     "pyc": "_f_pythonc",
@@ -472,7 +521,7 @@
     "sql": "_f_sql",
     "sqlite": "_f_sql",
     "styl": "_f_stylus",
-    "svg": "_f_image",
+    "svg": "_f_svg",
     "swift": "_f_swift",
     "tcl": "_f_tcl",
     "texi": "_f_tex",
@@ -480,7 +529,16 @@
     "txt": "_f_text",
     "twig": "_f_twig",
     "ts": "_f_typescript",
+    "avi": "_f_video",
+    "webm": "_f_video",
+    "flv": "_f_video",
+    "mp4": "_f_video",
+    "mkv": "_f_video",
+    "mov": "_f_video",
+    "wmv": "_f_video",
     "vue": "_f_vue",
+    "xls": "_f_excel",
+    "xlsx": "_f_excel",
     "yml": "_f_yaml",
     "yaml": "_f_yaml",
     "zip": "_f_archive",
@@ -503,11 +561,14 @@
     "dockerfile": "_f_docker",
     "dockerignore": "_f_docker",
     "docker-compose.yml": "_f_docker",
+    ".editorconfig": "_f_editorconfig",
     ".eslintrc": "_f_eslint",
     ".eslintrc.js": "_f_eslint",
     ".eslintrc.json": "_f_eslint",
     ".eslintrc.yaml": "_f_eslint",
     ".eslintrc.yml": "_f_eslint",
+    ".stylelintrc": "_f_stylelint",
+    "stylelint.config.json": "_f_stylelint",
     "favicon.ico": "_f_favicon",
     "gruntfile.js": "_f_gruntfile",
     "gulpfile.js": "_f_gulpfile",
@@ -521,6 +582,7 @@
     "license": "_f_license",
     "license.md": "_f_license",
     "package.json": "_f_npm",
+    "package-lock.json": "_f_lock",
     ".travis.yml": "_f_settings",
     ".nvmrc": "_f_settings",
     "vagrantfile": "_f_settings",
