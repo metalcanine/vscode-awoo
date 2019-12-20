@@ -1,45 +1,50 @@
 {
-  "name": "awoo",
-  "displayName": "Awoo",
-  "description": "A simple icon theme with bright colors.",
-  "version": "0.1.0",
-  "publisher": "metalcanine",
-  "license": "MIT",
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/metalcanine/vscode-awoo"
-  },
-  "bugs": {
-    "url": "https://github.com/metalcanine/vscode-awoo/issues"
-  },
-  "engines": {
-    "vscode": "^1.13.0"
-  },
-  "categories": [
-    "Themes"
-  ],
-  "keywords": [
-    "icon-theme",
-    "icons",
-    "theme",
-    "awoo"
-  ],
-  "homepage": "https://github.com/metalcanine/vscode-awoo",
-  "icon": "assets/logo.png",
-  "contributes": {
-    "iconThemes": [
-      {
-        "id": "awoo",
-        "label": "Awoo",
-        "path": "./awoo-icons.json"
-      }
-    ]
-  },
-  "scripts": {
-    "package": "vsce package",
-    "publish": "vsce publish"
-  },
-  "devDependencies": {
-    "vsce": "^1.51.0"
-  }
+	"name": "awoo",
+	"displayName": "Awoo",
+	"description": "A simple icon theme with bright colors.",
+	"version": "0.1.0",
+	"publisher": "metalcanine",
+	"license": "MIT",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/metalcanine/vscode-awoo"
+	},
+	"bugs": {
+		"url": "https://github.com/metalcanine/vscode-awoo/issues"
+	},
+	"engines": {
+		"vscode": "^1.13.0"
+	},
+	"categories": [
+		"Themes"
+	],
+	"keywords": [
+		"icon-theme",
+		"icons",
+		"theme",
+		"awoo"
+	],
+	"homepage": "https://github.com/metalcanine/vscode-awoo",
+	"icon": "assets/logo.png",
+	"contributes": {
+		"iconThemes": [
+			{
+				"id": "awoo",
+				"label": "Awoo",
+				"path": "./awoo-icons.json"
+			}
+		]
+	},
+	"scripts": {
+		"package": "vsce package",
+		"publish": "vsce publish"
+	},
+	"devDependencies": {
+		"vsce": "^1.51.0"
+	},
+	"__metadata": {
+		"id": "1de5c9a5-e003-4a48-8f4e-d0c57697fc0a",
+		"publisherDisplayName": "metalcanine",
+		"publisherId": "3cc61a5a-956a-4034-984a-080b4faddfda"
+	}
 }
