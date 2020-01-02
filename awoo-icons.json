@@ -320,7 +320,6 @@
     "lib": "_f_binary",
     "dll": "_f_binary",
     "so": "_f_binary",
-    "pyc": "_f_binary",
     "pyd": "_f_binary",
     "pyo": "_f_binary",
     "n": "_f_binary",
