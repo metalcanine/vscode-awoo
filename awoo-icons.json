@@ -205,7 +205,10 @@
       "iconPath": "./icons/file/puppet.png"
     },
     "_f_python": {
-      "iconPath": "./icons/file/python.png"
+      "iconPath": "./icons/file/python.svg"
+    },
+    "_f_pythonc": {
+      "iconPath": "./icons/file/pythonc.svg"
     },
     "_f_R": {
       "iconPath": "./icons/file/R.png"
@@ -449,6 +452,7 @@
     "procfile": "_f_procfile",
     "epp": "_f_puppet",
     "py": "_f_python",
+    "pyc": "_f_pythonc",
     "pyw": "_f_python",
     "r": "_f_R",
     "jsx": "_f_jsx",
